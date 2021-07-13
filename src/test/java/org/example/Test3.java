@@ -8,7 +8,6 @@ public class Test3 {
     public static void main(String[] args) {
 
 //        Pet pet = new Dog();
-
         ClassPathXmlApplicationContext context =
                 new ClassPathXmlApplicationContext("applicationContext.xml");
 
